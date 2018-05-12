@@ -1,10 +1,16 @@
 _repo: For-Love-of-a-Bedouin-Maid_47372
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47372-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Voleur, le
     gutenberg_agent_id: '44285'
     url: http://www.gutenberg.org/2009/agents/44285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47372#For-Love-of-a-Bedouin-Maid
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
